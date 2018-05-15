@@ -1,5 +1,5 @@
 declared-services:
-  language-translator-service:
+  Language Translator-3z:
     label: language_translator
     plan: lite
 applications:
@@ -7,5 +7,4 @@ applications:
   - Language Translator-3z
   name: language-translator-demo
   command: npm start
-  path: .
   memory: 256M
