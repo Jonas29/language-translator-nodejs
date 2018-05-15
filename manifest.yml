@@ -5,7 +5,7 @@ declared-services:
 applications:
 - services:
   - Language Translator-3z
-  name: language-translator-demo
+  name: Translator-DEV
   command: npm start
   path: .
   memory: 256M
