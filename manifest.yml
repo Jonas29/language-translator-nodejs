@@ -4,7 +4,7 @@ declared-services:
     plan: lite
 applications:
 - services:
-  - Language Translator-12
+  - Language_Translator_Chatar
   name: language-translator-demo
   command: npm start
   path: .
